@@ -11,7 +11,7 @@ Custom illustrations and infographic for University of Hawaii Transfer Website (
 How to better sustain my calorie intake while building muscle!
 
 📫 How to reach me:
-Visit my website @ **reina.studio**
+Visit my website @ [reina.studio](https://www.reina.studio/)
 
 <!--
 **breadgurl/breadgurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
